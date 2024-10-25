@@ -1,4 +1,4 @@
-# Task Management API
+# Task Management DJANGO Generics REST APIs
 
 This project is a simple task management API built with Django REST Framework (DRF) using generic API views and JWT authentication. It defines three roles: Manager, Employee, and Client, with specific permissions for each. The application uses MySQL as the database backend.
 
